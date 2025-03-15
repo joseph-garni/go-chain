@@ -1,10 +1,10 @@
 # Go-Chain
 
-Initial blockchain project introducing the basics of:
+Initial Go blockchain project introducing the basics of:
 
-Go Functions
-Hashing
-Slices and Data Types
-GET and POST requests
+1. Go Functions
+2. Hashing
+3. Slices and Data Types
+4. GET and POST requests
 
 
