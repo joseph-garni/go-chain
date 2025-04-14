@@ -119,3 +119,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - This project was inspired by blockchain fundamentals
 - Thanks to the Go community for excellent libraries and documentation
+- Looking forward to building on this implementation further and exploring the additional areas where blockchain can be implemented
